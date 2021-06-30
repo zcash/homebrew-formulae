@@ -5,7 +5,7 @@
 
 Packages in located in the [./Formula][] directory can be installed via canonical formula path:
 
-    brew install --verbose zcash/formulae/zecwallet-cli
+    brew install --verbose zcash/formulae/zecwallet-light-cli
 
 or, add the `zcash/formulae` tap:
 
@@ -13,7 +13,7 @@ or, add the `zcash/formulae` tap:
 
 then, install packages contained in the tap:
 
-    brew install zecwallet-cli
+    brew install zecwallet-light-cli
 
 ## Contributing
 
