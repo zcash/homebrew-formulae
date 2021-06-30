@@ -15,8 +15,11 @@ then, install packages contained in the tap:
 
     brew install zecwallet-light-cli
 
-## more zcash maintained formula
-- [zecwallet-lite](https://formulae.brew.sh/cask/zecwallet-lite) ([source](https://github.com/Homebrew/homebrew-cask/blob/HEAD/Casks/zecwallet-lite.rb))
+## Casks
+> [zecwallet-lite](https://formulae.brew.sh/cask/zecwallet-lite) ([source](https://github.com/Homebrew/homebrew-cask/blob/HEAD/Casks/zecwallet-lite.rb))
+```
+❯ brew install --cask zecwallet-lite
+```
 
 ## Contributing
 
