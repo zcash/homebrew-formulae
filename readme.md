@@ -22,7 +22,7 @@ then, install packages contained in the tap:
 
 Submit pull requests against the respective repos:
 
-* [zecwallet-cli](https://github.com/adityapk00/zecwallet-light-cli)
+* [zecwallet-cli](https://github.com/adityapk00/zecwallet-light-cli) ([releases](https://github.com/adityapk00/zecwallet-lite/releases))
 
 
 [./Formula]: https://github.com/zcash/homebrew-formulae/tree/master/Formula
