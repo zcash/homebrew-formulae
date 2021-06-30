@@ -2,7 +2,7 @@ class ZecwalletLightCli < Formula
   desc "ZecWallet Lightclient CLI"
   homepage "https://github.com/adityapk00/zecwallet-light-cli"
   url "https://github.com/adityapk00/zecwallet-light-cli/releases/download/v1.7.0/macOS-zecwallet-cli-v1.7.0.zip"
-  sha256 "23e3de1105dd4d735ee2e042c1184e8f57ce41c68afa3fd1a104d5ad0c35e355"
+  sha256 "0813725f924f88e7493eaea1867e65de4571a920a918c6deb5833351d6779717"
   license "MIT"
   head "https://github.com/adityapk00/zecwallet-light-cli/releases/download/v1.7.0/macOS-zecwallet-cli-v1.7.0.zip"
 
